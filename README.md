@@ -16,12 +16,12 @@ This is a simple face recognition application built with Vite, React, and [face-
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/noob210/simple-face-recognition.git
 ```
 
 Navigate to the project directory:
 ```bash
-cd your-repo-name
+cd simple-face-recognition
 ```
 
 Install dependencies:
@@ -71,4 +71,4 @@ If you intend to develop an attendance system or any similar application, it is 
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/)
