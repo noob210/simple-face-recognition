@@ -3,7 +3,7 @@
 This is a simple real-time face recognition application built with [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) and [face-api.js](https://github.com/justadudewhohacks/face-api.js). Designed for continuous face recognition without user intervention, it is ideal for automated attendance systems.
 
 # Features
-* **Continuous Face Recognition**: Automatically recognizes faces without the need for user interaction.
+* **Real-Time Face Recognition**: Automatically recognizes faces without the need for user interaction.
 
 * **No Server or Database Required**: All face recognition functionality is handled client-side.
 
