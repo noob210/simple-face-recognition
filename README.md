@@ -54,6 +54,8 @@ To configure the faces you want to be recognized, follow these steps:
 2. Store the images of the faces you want to recognize in this directory. The filename of each image will serve as the label for that face, and this label will be displayed when the face is detected.
 3. Open ***`src/components/getLabels.js`*** and edit the list of labels.
 
+![screenshot](https://github.com/noob210/simple-face-recognition/blob/main/public/screenshot/screenshot.png)
+
 ## Supported Image Formats
 By default, the app only recognizes PNG format images. You can change this setting to support other image formats by modifying the **`IMG_FORMAT`** variable in ***`src/components/config.js`***:
 
