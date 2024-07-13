@@ -70,11 +70,11 @@ If you intend to develop an attendance system or any similar application, it is 
 3. [face-api.js](https://github.com/justadudewhohacks/face-api.js)
 
 # Attribution
-1 . Jane [Image](https://www.freepik.com/free-photo/lifestyle-people-emotions-casual-concept-confident-nice-smiling-asian-woman-cross-arms-chest-confident-ready-help-listening-coworkers-taking-part-conversation_17096951.htm#fromView=search&page=1&position=0&uuid=d26d6360-8834-4568-a76f-efb7c16ba855) by benzoix on Freepik
+1. Jane [Image](https://www.freepik.com/free-photo/lifestyle-people-emotions-casual-concept-confident-nice-smiling-asian-woman-cross-arms-chest-confident-ready-help-listening-coworkers-taking-part-conversation_17096951.htm#fromView=search&page=1&position=0&uuid=d26d6360-8834-4568-a76f-efb7c16ba855) by benzoix on Freepik
 2. John [Image](https://www.freepik.com/free-photo/happy-business-man-wearing-grey-suit-standing-isolated-white-wall_12098163.htm#fromView=search&page=1&position=4&uuid=d26d6360-8834-4568-a76f-efb7c16ba855) Image by diana.grytsku on Freepik
 
 # Contact
-You can contact me at ***marvin.programming210@gmail.com***
+You can contact me at ***marvin.programming210@gmail.com*** if you have any comments or suggestions.
 
 # License
 
