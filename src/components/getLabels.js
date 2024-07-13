@@ -1,1 +1,1 @@
-export const labels = ['Mikha', 'Aiah'];
+export const labels = ['Jane', 'John'];
